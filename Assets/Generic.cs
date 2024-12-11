@@ -5,7 +5,7 @@ using UnityEngine;
 public class Generic : MonoBehaviour
 {
     // Start is called before the first frame update
-    public class myClass
+    public class MyClass
     {
         public int i;
         public int j;
@@ -13,18 +13,18 @@ public class Generic : MonoBehaviour
     }
     public struct MyStruct
     {
-        public struct name;
+        public string name;
         public int age;
     }
 
 
     public class MyList<Titem>
     {
-        private int[] array = new int[4];
+        private Titem[] array = new Titem[4];
 
         public int count { get; }
 
-        public void Push(int i)
+        public void Push(Titem i)
         {
 
         }
@@ -35,7 +35,7 @@ public class Generic : MonoBehaviour
         }
         public void Remove(Titem index)
 
-
+        { }
         public void Clear() { }
 
         public void IndexOf(Titem item)
@@ -54,17 +54,17 @@ public class Generic : MonoBehaviour
 
     void Start()
     {
-        var ms = new myClass(); 
+        var mc = new MyClass(); 
         var ms = new MyStruct();
         var ms2 = new MyStruct();
         ms = ms2;
         int i = 10;
 
-        MyList<myClass> standartlist = new MyList<myClass>();
+        MyList<MyClass> standartlist = new MyList<MyClass>();
 
         Test<int>(ref i);
-        myList<MyClass> myList = new MyList<MyListClass>();
-        myList.Push(new myClass());
+        MyList<MyClass> myList = new MyList<MyClass>();
+        myList.Push(new MyClass());
 
     }
 }
