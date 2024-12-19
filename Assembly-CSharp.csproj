@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\FreeCamera.cs" />
     <Compile Include="Assets\Scripts\CloudController.cs" />
     <Compile Include="Assets\Scripts\Cloud.cs" />
+    <Compile Include="Assets\Scripts\Refresh.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
