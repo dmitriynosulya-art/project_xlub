@@ -81,8 +81,8 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Lighting\ProbeVolume\ProbeVolumeAsset.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\HaltonSequence.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\LookDev\IDataProvider.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerFloatField.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerUIntField.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerFloatField.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Lighting\ProbeVolume\ProbeBrickIndex.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerPanel.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerMessageBox.cs" />
@@ -96,8 +96,8 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\TileLayoutUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\UIFoldout.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerGroup.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\PostProcessing\LensFlareComponentSRP.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\ShaderGenerator\ShaderGeneratorAttributes.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\PostProcessing\LensFlareComponentSRP.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\CoreMatrixUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\CommonStructs.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\Blitter.cs" />
@@ -136,8 +136,8 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\RenderPipeline\RenderPipelineResources.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\DebugManager.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerContainer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\DynamicResolutionHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerRow.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\DynamicResolutionHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\PostProcessing\LensFlareDataSRP.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\DebugUI.Containers.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Lighting\ProbeVolume\ProbeVolume.cs" />
@@ -177,14 +177,14 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\ListBuffer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\XRUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Camera\CameraSwitcher.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerFoldout.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Lighting\ProbeVolume\ProbeVolumePositioning.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerFoldout.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\GlobalDynamicResolutionSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\DebugShapes.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Common\IAdditionalData.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\RenderGraph\RenderGraphResourceRegistry.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\RenderGraph\RenderGraphLogger.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\HableCurve.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\RenderGraph\RenderGraphLogger.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\ProfilingScope.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Utilities\ArrayExtensions.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@12.1.6\Runtime\Debugging\DebugUI.Fields.cs" />

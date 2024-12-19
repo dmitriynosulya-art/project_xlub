@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Project\\xlub_02\\project_xlub_03\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:57:08.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudController.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\CloudController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloudController.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\CloudController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloudController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:07:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cloud.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Cloud.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cloud.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Cloud.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cloud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:23:18.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

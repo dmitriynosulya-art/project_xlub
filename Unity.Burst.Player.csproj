@@ -90,8 +90,8 @@
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Intrinsics\Arm\NEON.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Editor\BurstLoader.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Intrinsics\Arm\NEON_AArch64_rdma.cs" />
-    <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\BurstCompiler.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Editor\BurstReflection.cs" />
+    <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\BurstCompiler.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Intrinsics\x86\Popcnt.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\FunctionPointer.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.6.5\Runtime\Intrinsics\x86\Common.cs" />
