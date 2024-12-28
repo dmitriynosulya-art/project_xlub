@@ -56,15 +56,12 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Generic.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\FreeCamera.cs" />
-    <Compile Include="Assets\Scripts\CloudController.cs" />
-    <Compile Include="Assets\Scripts\Cloud.cs" />
-    <Compile Include="Assets\Scripts\Refresh.cs" />
+    <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\GAmeController.cs" />
+    <Compile Include="Assets\Scripts\LevelController.cs" />
+    <Compile Include="Assets\Scripts\SpawnerStone.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -697,6 +694,10 @@
       <Project>{AB78D845-1A96-044A-EB86-42629F50FDEF}</Project>
       <Name>Unity.RenderPipelines.Core.ShaderLibrary.Player</Name>
     </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.Player.csproj">
+      <Project>{985D9E5E-FD30-AD03-B5EC-A477DDA669D2}</Project>
+      <Name>Autodesk.Fbx.Player</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
       <Project>{3BB0C174-EACB-D364-6F52-E9E9415CC2C3}</Project>
       <Name>UnityEngine.UI.Player</Name>
@@ -708,6 +709,10 @@
     <ProjectReference Include="Unity.Burst.Player.csproj">
       <Project>{6E19B7EB-F91C-E882-5E9D-A3A535DF080C}</Project>
       <Name>Unity.Burst.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Runtime.Player.csproj">
+      <Project>{81F99F2A-90FA-A5AA-1D17-FF5B49D109F0}</Project>
+      <Name>Unity.Formats.Fbx.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj">
       <Project>{D15A6449-C5A2-61A9-6823-509F48E7BC7C}</Project>

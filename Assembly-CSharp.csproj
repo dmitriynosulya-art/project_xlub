@@ -56,15 +56,12 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Generic.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\FreeCamera.cs" />
-    <Compile Include="Assets\Scripts\CloudController.cs" />
-    <Compile Include="Assets\Scripts\Cloud.cs" />
-    <Compile Include="Assets\Scripts\Refresh.cs" />
+    <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\GAmeController.cs" />
+    <Compile Include="Assets\Scripts\LevelController.cs" />
+    <Compile Include="Assets\Scripts\SpawnerStone.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -748,6 +745,14 @@
       <Project>{01CE6D6C-7B28-B714-1A70-F3A6DEECD6DD}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.Editor.csproj">
+      <Project>{0DF536E0-2104-6976-6437-5BC147F157BA}</Project>
+      <Name>Autodesk.Fbx.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Editor.csproj">
+      <Project>{ABAA60AD-BFF9-C651-EE40-B6D21194D5A2}</Project>
+      <Name>Unity.Formats.Fbx.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
       <Project>{C4DE2DF8-27CD-7E92-5B3C-C1072B6016CE}</Project>
       <Name>Unity.Timeline</Name>
@@ -780,6 +785,10 @@
       <Project>{D15E3069-CC72-9C43-1BAD-FE80B2723CBA}</Project>
       <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.csproj">
+      <Project>{8F6DDEC0-7C0A-B53C-5B3D-E01350D8D0C3}</Project>
+      <Name>Autodesk.Fbx</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{B3804E73-13FB-CED5-ADDB-E301B0BE45BF}</Project>
       <Name>UnityEngine.UI</Name>
@@ -799,6 +808,10 @@
     <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
       <Project>{A0A2BB55-0B1B-0CE9-35D2-933A46616D28}</Project>
       <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Runtime.csproj">
+      <Project>{2035F5FD-DE8C-79D0-EB34-0A49664DC32C}</Project>
+      <Name>Unity.Formats.Fbx.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
       <Project>{F86ACA8F-5F1A-2690-6A31-E3CB6CF19565}</Project>
