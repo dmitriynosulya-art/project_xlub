@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Project\\xlub_02\\project_xlub_03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stone.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:31:30.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:05:36.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stick.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stick.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:41:08.849Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,23 +79,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
               "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\LevelController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T07:24:45.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SpawnerStone.cs",
               "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\SpawnerStone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerStone.cs",
               "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\SpawnerStone.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnerStone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:23:58.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T07:23:58.996Z"
             }
           ]
         }
