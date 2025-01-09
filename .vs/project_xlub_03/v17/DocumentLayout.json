@@ -7,20 +7,48 @@
       "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\states\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\states\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\states\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEC09F6-CED2-BE94-C45D-C4790F00AB7C}|Assembly-CSharp.Player.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEC09F6-CED2-BE94-C45D-C4790F00AB7C}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|c:\\project\\xlub_02\\project_xlub_03\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|C:\\Project\\xlub_02\\project_xlub_03\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A0A53-F39E-6922-7968-D22159652934}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +58,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stone.cs",
-              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Stone.cs",
-              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Stone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T13:31:30.478Z",
+              "WhenOpened": "2025-01-09T07:52:39.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\GameState.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:41:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverState.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameOverState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\GameOverState.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameOverState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\GameOverState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:45:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameplayState.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameplayState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\GameplayState.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\GameplayState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\GameplayState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:44:38.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Title": "MainMenuState.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\MainMenuState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\States\\MainMenuState.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\States\\MainMenuState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\States\\MainMenuState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T11:05:36.013Z",
+              "WhenOpened": "2025-01-09T07:28:48.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:29:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEvents.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:08:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stone.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:31:30.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:05:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Stick.cs",
               "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\Stick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Stick.cs",
@@ -68,8 +183,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Stick.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:41:08.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T08:41:08.849Z"
             },
             {
               "$type": "Document",
@@ -79,22 +193,23 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
               "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\LevelController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T07:24:45.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SpawnerStone.cs",
               "DocumentMoniker": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\SpawnerStone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerStone.cs",
               "ToolTip": "C:\\Project\\xlub_02\\project_xlub_03\\Assets\\Scripts\\SpawnerStone.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnerStone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:23:58.996Z"
+              "WhenOpened": "2024-12-28T07:23:58.996Z",
+              "EditorCaption": ""
             }
           ]
         }
