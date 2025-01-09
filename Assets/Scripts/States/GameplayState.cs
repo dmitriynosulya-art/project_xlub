@@ -40,7 +40,7 @@ namespace Golf
         {
             base.OnDisable();
 
-            GameEvents.onCollisionStone += OnGameOver;
+            GameEvents.onCollisionStone -= OnGameOver;
 
             levelController.enabled = false;
             playerController.enabled = false;

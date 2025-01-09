@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
 
 namespace Golf
@@ -44,7 +43,7 @@ namespace Golf
 
         private void OnDisable()
         {
-            GameEvents.onStickHit += OnStickHit;
+            GameEvents.onStickHit -= OnStickHit;
         }
 
         private void GameOver()
@@ -73,7 +72,7 @@ namespace Golf
             if (Time.time >= m_lastSpawnedTime + m_delay)
             {
                 var stone = spawner.Spawn();
-            m_stones.Add(stone);
+                m_stones.Add(stone);
                 m_lastSpawnedTime = Time.time;
 
                 RefreshDelay();
